@@ -14,7 +14,7 @@
 # - romance (romance)
 # - documentarios (documentary)
 
-# - technology used for this project:
+# - library used in this project:
 # - react
 # - react-router-dom
 # - @material-ui/icons
