@@ -23,4 +23,4 @@
 # - version 0.0.1
 # - pwa activated
 
-# - Projeto criado por Douglas's Silva
+# - project created by Douglas's Silva
